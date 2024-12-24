@@ -80,6 +80,9 @@ Released under the **MIT License**, but specific data may be subject to copyrigh
 - [Hmar Bible Dataset](https://huggingface.co/datasets/keikanih/hmar_bible_dataset)
 - [Hmar Language Conversations](https://huggingface.co/datasets/keikanih/hmar_language_conversations)
 
+## Extras 
+This GitHub repository shares the same structure as the huggingface dataset but includes an additional `chunks` folder, where the data is split into four segments. It also contains an unsorted dataset in the root folder named `data.csv`.
+
 ## Contact
 
 For inquiries or contributions, please contact Donal Muolhoi at donalmuolhoi@gmail.com.
